@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405798835392",
+    "project_id": "case-connect-a55c0",
+    "storage_bucket": "case-connect-a55c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405798835392:android:64df1d9217279c6bcd0925",
+        "android_client_info": {
+          "package_name": "com.example.case_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1295vSgAOy971H2jgcmrAQqn_yIcY0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
